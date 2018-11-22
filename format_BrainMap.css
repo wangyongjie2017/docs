@@ -1,0 +1,6 @@
+.toolbar-container .btn-help,
+.toolbar-container .btn-menu,
+.mj-logo-link {
+    display: none !important;
+}
+
